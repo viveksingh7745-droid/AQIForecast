@@ -1,4 +1,4 @@
-# AQI Forecast — CodTech Internship Project
+# AQI Forecast — CodTech Internship Project. Intership ID-CITS3857
 
 Predicts Air Quality Index (AQI) 24 hours ahead using XGBoost and real-time
 data from the OpenAQ API.
